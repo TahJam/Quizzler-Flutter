@@ -55,6 +55,6 @@ Question('Some cats are actually allergic to humans', true),
 ```
 
 ## Special thanks
-I want to thank App Brewery for giving me the oppurtunity to learn Flutter and Dart. 
+I want to thank App Brewery and Angela Yu for giving me the oppurtunity to learn Flutter and Dart. 
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
